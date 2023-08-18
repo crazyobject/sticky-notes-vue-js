@@ -8,7 +8,7 @@
 2. Delete Note
 
 ## Live app on stackblitz<br/>
-Coming soon.
+https://stackblitz.com/edit/sticky-notes-vue-simple-app
 
 # Kickstart
 1. checkout the repository

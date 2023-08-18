@@ -1,11 +1,14 @@
-# sticky-notes-vue-js
-Sticky notes app developed using Vuejs(V3) and simple HTML5/CSS.<br/> 
-User can create multiple notes.<br/>
-Notes gets saved in to local storage and will be available in multiple sessions.<br/> 
+# Sticky notes simple application using Vue3 and localstorage
+1. Sticky notes app developed using Vuejs(V3) and simple HTML5/CSS.<br/> 
+2. User can create multiple notes.<br/>
+3. Notes gets saved in to local storage and will be available in multiple sessions.<br/>
+
+# Upcoming release will have
+1. Edit Note
+2. Delete Note
 
 ## Live app on stackblitz<br/>
 Coming soon.
-
 
 # Kickstart
 1. checkout the repository

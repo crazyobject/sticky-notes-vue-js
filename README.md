@@ -4,7 +4,7 @@ User can create multiple notes.<br/>
 Notes gets saved in to local storage and will be available in multiple sessions.<br/> 
 
 ## Live app on stackblitz<br/>
-[https://stackblitz.com/edit/react-bootstrap-crud-operations?file=src%2FApp.js](https://stackblitz.com/edit/react-bootstrap-crud-operations?file=src%2FApp.js)
+Coming soon.
 
 
 # Kickstart
@@ -12,5 +12,5 @@ Notes gets saved in to local storage and will be available in multiple sessions.
 2. npm install
 3. npm run dev
 
-## Demo - add new employee
+## Demo - Sticky notes with localstorage
 ![Sticky notes Vue Js](./public/sticky-notes.gif)

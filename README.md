@@ -3,6 +3,7 @@
 2. User can create multiple notes.<br/>
 3. Notes gets saved in to local storage and will be available in multiple sessions.<br/>
 
+
 # Upcoming release will have
 1. Edit Note
 2. Delete Note
